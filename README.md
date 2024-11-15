@@ -93,9 +93,8 @@ Feel free to reach out to me on any of the following channels:
 
 ## ⚡ Fun Facts About Me
 
-- **I’m obsessed with:** [Share something quirky or fun—e.g., "building retro game clones in my free time" or "exploring new places on weekends"]
-- **My latest obsession:** [Tech or tool you’re currently learning or playing with]
-- **My top secret skill:** [Something surprising about you!]
+- **I’m obsessed with:** [Learning, Reading before sleeping]
+- **My latest obsession:** [Creating React Library Utils]
 
 ---
 
