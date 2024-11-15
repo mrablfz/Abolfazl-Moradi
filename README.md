@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abolfazl181920](https://github.com/Abolfazl181920)
 
-- 📝 I regularly write articles on [my local machine for university stuff](my local machine for university stuff)
+- 📝 I regularly write articles on (my local machine for university stuff)
 
 - 💬 Ask me about **anything related to web**
 
