@@ -3,7 +3,7 @@
 🚀 I help [combine AI machine learning bot in a fullstack web project that recognize license plate using Traffic camera.] 🚀
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/yourusername)  
-[![GitHub Badge](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Abolfazl181920)  **This is my first account but now I'll be here** 
+[![GitHub Badge](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Abolfazl181920)  **This is my first account but from now I'll be here** 
 
 ---
 
@@ -11,7 +11,7 @@
 
 Hey, I'm **[Abolfazl]** better call **[mrablfz]**, an enthusiastic **[developer]** with a passion for **[fullstack]** and a love for solving complex problems!
 
-I live and breathe **[programming]**, and when I'm not coding, you can find me **[fun personal detail, e.g., "exploring the latest in sci-fi literature," "drinking way too much coffee," or "playing with AI experiments"]**.
+I live and breathe **[programming]**
 
 **Fun fact:** I comeback after 1 year of not coding but I AM DOGGED! I made it. 😎
 
