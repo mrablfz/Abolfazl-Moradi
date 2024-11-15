@@ -113,4 +113,4 @@ If you like what you see, let's connect! I'm always open to chatting about **[sp
 You can add cool animated images or GIFs to make things more engaging. For example, you can add a fun GIF to the header like this:
 
 ```markdown
-![Tech GIF](https://path/to/animated-gif.gif)
+![Tech GIF]([https://path/to/animated-gif.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fvininjr%2Fd29bb07bdadb41e4b0923bc8fa748b1a&psig=AOvVaw0u_NF2Nb7oASLvsnoejJx0&ust=1731787565344000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCND7yMiR34kDFQAAAAAdAAAAABAV))
