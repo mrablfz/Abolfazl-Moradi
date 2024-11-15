@@ -83,25 +83,11 @@ Here’s a rundown of what I bring to the table:
 
 ---
 
-## 📊 **My Data Visualizations**
-
-Here’s a sneak peek into some of my work. Check out these interactive visualizations and see the magic unfold!
-
-- **[Data Viz 1 - Project Link](https://github.com/Abolfazl181920/heart-disease)**: _An interactive chart that visualizes real-time data._
-  
-![Data Viz 1](https://path/to/chart1.png)
-
-- **[Data Viz 2 - Project Link](https://github.com/Abolfazl181920/mobit.ir)**: _A complex multi-dimensional dataset displayed via D3.js_
-
-![Data Viz 2](https://path/to/chart2.png)
-
----
-
 ## 🌍 **Let's Connect!**
 
 Feel free to reach out to me on any of the following channels:
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [abolfaz88888888@gmail.com](mailto:your.email@example.com)
 
 ---
 
