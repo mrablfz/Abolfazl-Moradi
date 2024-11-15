@@ -1,3 +1,5 @@
+<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+
 # 👋 **Hey there! I'm [Abolfazl Moradi]**  
 ✨ **[developer] | [fullstack]** ✨  
 🚀 I help [combine AI machine learning bot in a fullstack web project that recognize license plate using Traffic camera.] 🚀
@@ -80,37 +82,6 @@ Here’s a rundown of what I bring to the table:
 2. **Build quickly, iterate faster:** I follow an agile workflow to deliver results quickly and improve iteratively.
 3. **Collaborate & learn:** I'm all about team synergy and sharing knowledge. Working together is key!
 4. **Deliver quality:** Quality and attention to detail are non-negotiable. I take pride in my work.
-
----
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrablfz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrablfz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
-name: Contribution snake
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    name: Jobs to update snake grid
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: madushadhanushka
-          svg_out_path: dist/github-contribution-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ---
 
