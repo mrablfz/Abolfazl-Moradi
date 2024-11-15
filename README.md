@@ -1,5 +1,3 @@
-<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
-
 # 👋 **Hey there! I'm [Abolfazl Moradi]**  
 ✨ **[developer] | [fullstack]** ✨  
 🚀 I help [combine AI machine learning bot in a fullstack web project that recognize license plate using Traffic camera.] 🚀
@@ -45,6 +43,11 @@ Here’s a rundown of what I bring to the table:
 - Pandas 🐼
 - NumPy 🔢
 - Scikit-learn 🎓
+
+---
+
+<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+![star-history](https://api.lucabubi.me/chart?username=USERNAME&repository=REPOSITORY&color=COLOR)
 
 ---
 
