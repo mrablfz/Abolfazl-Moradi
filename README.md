@@ -1,21 +1,19 @@
 # 👋 **Hey there! I'm [Abolfazl Moradi]**  
 ✨ **[developer] | [fullstack]** ✨  
-🚀 I help [describe what you help with in a fun and exciting way—e.g., "build scalable web apps" or "create mind-blowing data visualizations"] 🚀
+🚀 I help [combine AI machine learning bot in a fullstack web project that recognize license plate using Traffic camera.] 🚀
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)  
 [![GitHub Badge](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/yourusername)  
-[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-PortfolioLink?logo=wordpress&logoColor=white)](https://yourportfolio.com)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Abolfazl181920)  
 
 ---
 
 ## 🌟 **About Me**
 
-Hey, I'm **[Your Name]**, an enthusiastic **[Your Job Title]** with a passion for **[specific skills or technologies]** and a love for solving complex problems! Over the years, I’ve worked in diverse domains like **[list of domains/industries]**, focusing on delivering cutting-edge solutions with technologies like **[list relevant technologies]**.
+Hey, I'm **[Abolfazl]** better call **[mrablfz]**, an enthusiastic **[developer]** with a passion for **[fullstack]** and a love for solving complex problems!
 
-I live and breathe **[specific skill or tool]**, and when I'm not coding, you can find me **[fun personal detail, e.g., "exploring the latest in sci-fi literature," "drinking way too much coffee," or "playing with AI experiments"]**.
+I live and breathe **[programming]**, and when I'm not coding, you can find me **[fun personal detail, e.g., "exploring the latest in sci-fi literature," "drinking way too much coffee," or "playing with AI experiments"]**.
 
-**Fun fact:** I once [quirky anecdote related to your work, e.g., "wrote a fully functional chatbot over a weekend just for fun"]. 😎
+**Fun fact:** I comeback after 1 year of not coding but I AM DOGGED! I made it. 😎
 
 ---
 
@@ -26,6 +24,7 @@ Here’s a rundown of what I bring to the table:
 ### **Programming Languages**
 - Python 🐍
 - JavaScript (React.js, Node.js) 💻
+- TypeScript 💻
 - SQL & NoSQL (MongoDB, PostgreSQL) 🗃️
 - Bash Scripting ⚙️
 
@@ -49,7 +48,7 @@ Here’s a rundown of what I bring to the table:
 
 ## 🎯 **Key Achievements**
 
-- **Created an interactive data dashboard** for a global e-commerce company that increased user engagement by 40%. 📈  
+- **Created an interactive data dashboard** for my university to have better dashboard. 📈  
   _Tech stack: React.js, D3.js, MongoDB_
 
 - **Developed a machine learning model** that predicted customer churn with 92% accuracy. 🚀  
@@ -62,13 +61,7 @@ Here’s a rundown of what I bring to the table:
 
 ## 🖥️ **Current Projects & Side Hustles**
 
-🎉 I'm currently working on **[Project Name]**, which is a **[short description of the project, e.g., "cloud-based platform for real-time collaboration" or "AI-powered recommendation engine"]**. Here's a sneak peek of what’s brewing:
-
-- **Project 1:** [Project Link](https://github.com/yourusername/project1)  
-  _Built with React.js and Node.js – a real-time chat app_
-
-- **Project 2:** [Project Link](https://github.com/yourusername/project2)  
-  _A data analysis tool using Python and Plotly for insightful visualizations_
+🎉 I'm currently working on **[React Library]**, which is a **[generating template of components for begining of project to be easy start]**.
 
 👨‍💻 **Collaboration Welcome!** I'm always excited to work on new and innovative projects. Feel free to reach out if you want to collaborate! 😎
 
@@ -76,13 +69,8 @@ Here’s a rundown of what I bring to the table:
 
 ## 🧑‍🏫 **Education & Certifications**
 
-🎓 **Master's in Computer Science** from **[University Name]**  
-🎓 **Certification in Machine Learning** from **[Online Platform (e.g., Coursera, Udacity)]**
-
-🏅 **Certifications**  
-- AWS Certified Solutions Architect – [Year]  
-- Google Data Analytics Certificate – [Year]  
-- [Any other certifications]
+🎓 **Associate degree** from **[Shamsipoor University]**  
+🎓 **Certification in Computer software** from **[Shamsipoor University]**
 
 ---
 
@@ -99,11 +87,11 @@ Here’s a rundown of what I bring to the table:
 
 Here’s a sneak peek into some of my work. Check out these interactive visualizations and see the magic unfold!
 
-- **[Data Viz 1 - Project Link](https://github.com/yourusername/project1)**: _An interactive chart that visualizes real-time data._
+- **[Data Viz 1 - Project Link](https://github.com/Abolfazl181920/heart-disease)**: _An interactive chart that visualizes real-time data._
   
 ![Data Viz 1](https://path/to/chart1.png)
 
-- **[Data Viz 2 - Project Link](https://github.com/yourusername/project2)**: _A complex multi-dimensional dataset displayed via D3.js_
+- **[Data Viz 2 - Project Link](https://github.com/Abolfazl181920/mobit.ir)**: _A complex multi-dimensional dataset displayed via D3.js_
 
 ![Data Viz 2](https://path/to/chart2.png)
 
@@ -114,19 +102,6 @@ Here’s a sneak peek into some of my work. Check out these interactive visualiz
 Feel free to reach out to me on any of the following channels:
 
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [yourlinkedin](https://www.linkedin.com/in/yourlinkedin)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-
----
-
-## 🏅 **Social Proof**
-
-> *"Working with [Your Name] was a game-changer! They brought innovative solutions and expert technical knowledge to the table every time."*  
-> **- Client/Colleague Name**
-
-> *"[Your Name] is an exceptional problem-solver, and their passion for clean code is infectious. I highly recommend them!"*  
-> **- Client/Colleague Name**
 
 ---
 
@@ -144,7 +119,7 @@ If you like what you see, let's connect! I'm always open to chatting about **[sp
 
 ---
 
-**Made with ❤️ and 💻 by [Your Name]**
+**Made with ❤️ and 💻 by [mrablfz]**
 
 ---
 
